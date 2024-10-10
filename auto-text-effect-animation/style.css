@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&family=Sixtyfour+Convergence&display=swap');
+
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #D3D3D3;
+    font-family: "Lilita One", sans-serif;
+}
