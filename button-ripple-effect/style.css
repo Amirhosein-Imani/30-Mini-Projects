@@ -30,8 +30,8 @@ body{
     position: absolute;
     width: 0px;
     height: 0px;
-    left: 50%;
-    top: 50%;
+    left: var(--xPosition);
+    top: var(--yPosition);
     transform: translate(-50% , -50%);
     border-radius: 50%;
     transition: width 0.5s , height 0.5s;
